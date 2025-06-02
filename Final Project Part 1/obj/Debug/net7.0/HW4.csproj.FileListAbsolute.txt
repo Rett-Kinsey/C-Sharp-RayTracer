@@ -1,0 +1,57 @@
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.AssemblyInfoInputs.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.AssemblyInfo.cs
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.csproj.CoreCompileInputs.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.csproj.AssemblyReference.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\HW4.exe
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\HW4.deps.json
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\HW4.runtimeconfig.json
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\HW4.pdb
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.csproj.CopyComplete
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\refint\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.pdb
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\HW4.genruntimeconfig.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\HW4\obj\Debug\net7.0\ref\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\HW4.exe
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\HW4.deps.json
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\HW4.runtimeconfig.json
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\HW4.pdb
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.csproj.AssemblyReference.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.AssemblyInfoInputs.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.AssemblyInfo.cs
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.csproj.CoreCompileInputs.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.csproj.CopyComplete
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\refint\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.pdb
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\HW4.genruntimeconfig.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project Part 1\obj\Debug\net7.0\ref\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.csproj.AssemblyReference.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.AssemblyInfoInputs.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.AssemblyInfo.cs
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.csproj.CoreCompileInputs.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\refint\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.pdb
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\HW4.exe
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\HW4.deps.json
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\HW4.runtimeconfig.json
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\HW4.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\HW4.pdb
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.csproj.CopyComplete
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\HW4.genruntimeconfig.cache
+C:\Users\rettk\OneDrive\Documents\School\Fall 2023\Computer Graphics\Final Project\Final Project Part 1\obj\Debug\net7.0\ref\HW4.dll
